@@ -114,20 +114,6 @@
         {
             "m_OutputSlot": {
                 "m_Node": {
-                    "m_Id": "8dcc3d7484224a118885e33e833a00c8"
-                },
-                "m_SlotId": 0
-            },
-            "m_InputSlot": {
-                "m_Node": {
-                    "m_Id": "6b1e7395cdef4e46b43d8775a3f27180"
-                },
-                "m_SlotId": 0
-            }
-        },
-        {
-            "m_OutputSlot": {
-                "m_Node": {
                     "m_Id": "c79147d8fdb54cd89eee8344283ff7b8"
                 },
                 "m_SlotId": 0
@@ -1562,9 +1548,9 @@
     "m_ShaderOutputName": "BaseColor",
     "m_StageCapability": 2,
     "m_Value": {
-        "x": 0.5,
-        "y": 0.5,
-        "z": 0.5
+        "x": 0.18867921829223634,
+        "y": 0.18867921829223634,
+        "z": 0.18867921829223634
     },
     "m_DefaultValue": {
         "x": 0.0,
@@ -1911,9 +1897,9 @@
     "m_ShaderOutputName": "SpriteMask",
     "m_StageCapability": 2,
     "m_Value": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0,
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
         "w": 1.0
     },
     "m_DefaultValue": {
@@ -1999,9 +1985,9 @@
     "m_ShaderOutputName": "Emission",
     "m_StageCapability": 2,
     "m_Value": {
-        "x": 0.7264150977134705,
-        "y": 0.7264150977134705,
-        "z": 0.7264150977134705
+        "x": 0.40566039085388186,
+        "y": 0.40566039085388186,
+        "z": 0.40566039085388186
     },
     "m_DefaultValue": {
         "x": 0.0,
