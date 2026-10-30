@@ -20,9 +20,9 @@ Portfolio write-up: https://ergosoom.com/game-dev#ringo
 - **Walkable scale:** a custom scale parameter takes the graph from a -1 to 1 domain up to a level you walk through in first person.
 - **Animated world-space color:** each cube is colored by its position in the world, with the rainbow shifting over time.
 
-| Early points test | `TorusSpiral` function | Animated color shader graph |
-| --- | --- | --- |
-| ![Early math function test](media/early_points.jpg) | ![TorusSpiral function](media/torus_spiral.jpg) | ![Color shader graph](media/color_shader_graph.jpg) |
+| Early points test | `TorusSpiral` function |
+| --- | --- |
+| ![Early math function test](media/early_points.jpg) | ![TorusSpiral function](media/torus_spiral.jpg) |
 
 ## Running it
 
