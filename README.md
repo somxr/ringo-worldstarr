@@ -1,9 +1,17 @@
 # Ringo WorldStarr
 
+![Ringo WorldStarr](media/cover.jpg)
+
 A looping, walkable level where everything around you is a math function running on the GPU. You walk inside a giant torus that pulses, twists and shifts hues in a psychedelic loop, built from up to half a million cubes animated in real time with HLSL compute shaders.
 
 Video: https://www.youtube.com/watch?v=rCbEeZmJZns
 Portfolio write-up: https://ergosoom.com/game-dev#ringo
+
+<p>
+  <img src="media/tunnel_purple.jpg" width="32%" alt="Purple torus tunnel over the walkway">
+  <img src="media/tunnel_rings.jpg" width="32%" alt="Rings of cubes shifting from green to purple">
+  <img src="media/cube_spiral.jpg" width="32%" alt="Thousands of cubes spiralling around the walkway">
+</p>
 
 ## What's in it
 
@@ -11,6 +19,10 @@ Portfolio write-up: https://ergosoom.com/game-dev#ringo
 - **Original math functions:** 6 parametric functions (5 torus variations and a sphere), animated with time and morphing into each other.
 - **Walkable scale:** a custom scale parameter takes the graph from a -1 to 1 domain up to a level you walk through in first person.
 - **Animated world-space color:** each cube is colored by its position in the world, with the rainbow shifting over time.
+
+| Early points test | `TorusSpiral` function | Animated color shader graph |
+| --- | --- | --- |
+| ![Early math function test](media/early_points.jpg) | ![TorusSpiral function](media/torus_spiral.jpg) | ![Color shader graph](media/color_shader_graph.jpg) |
 
 ## Running it
 
